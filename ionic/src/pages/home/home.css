@@ -1,0 +1,66 @@
+#page-home {
+  --theme-primary-color: url("../../imgs/background.jpg");
+  background: url("../../imgs/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#page-home [studio-id="home_Heading_4916"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+}
+
+#page-home [studio-id="home_Label_5771"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-home [studio-id="home_Heading_2471"] {
+  --theme-text-secondary-color: #ce00ff;
+  color: var(--theme-text-secondary-color);
+}
+
+#page-home [studio-id="home_Label_2729"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-home [studio-id="home_Heading_6261"] {
+  --theme-text-secondary-color: #ad0af4;
+  color: var(--theme-text-secondary-color);
+}
+
+#page-home [studio-id="home_Label_3058"] {
+  --theme-text-secondary-color: #10f1d1;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-home [studio-id="home_Label_6695"] {
+  --theme-text-secondary-color: #7cff16;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-home [studio-id="home_Label_9997"] {
+  --theme-text-secondary-color: #f4e9e9;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-home [studio-id="home_Button_9546"] {
+  --theme-secondary-color: #f4fbf3;
+  --theme-primary-shade-one: #3333c4;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 500;
+}#page-home [studio-id="home_Button_4499"] {
+  --theme-secondary-color: #ffffff;
+  --theme-primary-shade-one: #35354b;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 500;
+}

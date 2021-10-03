@@ -1,0 +1,289 @@
+{
+  "services": [
+    {
+      "customCharts": [
+        {
+          "tableColumns": null,
+          "creatorUserID": "admin",
+          "chartProperties": {
+            "size": 10,
+            "offset": 0
+          },
+          "customYAxis": null,
+          "source": "fromPage",
+          "filters": [
+            {
+              "filter": "appName",
+              "filterValue": "com.ibm.com",
+              "filterOperator": "equals",
+              "filterLabel": "Application Name",
+              "filterOperatorLabel": "Equals"
+            }
+          ],
+          "title": "PageFunnel_Pulse",
+          "dest": "toPage",
+          "customEventType": "CustomData",
+          "customChartType": "FLOWCHART",
+          "term": "HomePage",
+          "customXAxis": null,
+          "metrics": null,
+          "id": "ccae546652-2c47-4d5b-8640-53c63076f97a",
+          "timestamp": 1633203974231
+        },
+        {
+          "tableColumns": null,
+          "creatorUserID": "admin",
+          "chartProperties": {
+            "size": 10,
+            "offset": 0
+          },
+          "customYAxis": null,
+          "source": null,
+          "filters": [
+            {
+              "filter": "appName",
+              "filterValue": "com.ibm.com",
+              "filterOperator": "equals",
+              "filterLabel": "Application Name",
+              "filterOperatorLabel": "Equals"
+            }
+          ],
+          "title": "ChatIntent_Pulse",
+          "dest": null,
+          "customEventType": "CustomData",
+          "customChartType": "PIECHART",
+          "term": "Chat-Intents",
+          "customXAxis": null,
+          "metrics": null,
+          "id": "cc2cb33a07-67a6-4cce-9762-e5f3f62967fa",
+          "timestamp": 1633203974168
+        },
+        {
+          "tableColumns": null,
+          "creatorUserID": "admin",
+          "chartProperties": {
+            "size": 10,
+            "offset": 0
+          },
+          "customYAxis": null,
+          "source": "fromPage",
+          "filters": [
+            {
+              "filter": "appName",
+              "filterValue": "com.shivang.mlpulse",
+              "filterOperator": "equals",
+              "filterLabel": "Application Name",
+              "filterOperatorLabel": "Equals"
+            }
+          ],
+          "title": "PageFunnel_MLPulse",
+          "dest": "toPage",
+          "customEventType": "CustomData",
+          "customChartType": "FLOWCHART",
+          "term": "HomePage",
+          "customXAxis": null,
+          "metrics": null,
+          "id": "ccf94b4029-fce2-4162-92ba-0e19c8606396",
+          "timestamp": 1633200448407
+        },
+        {
+          "tableColumns": null,
+          "creatorUserID": "admin",
+          "chartProperties": {
+            "size": 10,
+            "offset": 0
+          },
+          "customYAxis": null,
+          "source": null,
+          "filters": [
+            {
+              "filter": "appName",
+              "filterValue": "com.shivang.mlpulse",
+              "filterOperator": "equals",
+              "filterLabel": "Application Name",
+              "filterOperatorLabel": "Equals"
+            }
+          ],
+          "title": "ChatIntent_MLPulse",
+          "dest": null,
+          "customEventType": "CustomData",
+          "customChartType": "PIECHART",
+          "term": "Chat-Intents",
+          "customXAxis": null,
+          "metrics": null,
+          "id": "cc441719bf-bf98-4393-953a-d1140fd0ceb6",
+          "timestamp": 1633200448367
+        },
+        {
+          "tableColumns": null,
+          "creatorUserID": "admin",
+          "chartProperties": {
+            "size": 10,
+            "offset": 0
+          },
+          "customYAxis": null,
+          "source": "fromPage",
+          "filters": [
+            {
+              "filter": "appName",
+              "filterValue": "com.ibm.com",
+              "filterOperator": "equals",
+              "filterLabel": "Application Name",
+              "filterOperatorLabel": "Equals"
+            }
+          ],
+          "title": "PageFunnel_watsonchat",
+          "dest": "toPage",
+          "customEventType": "CustomData",
+          "customChartType": "FLOWCHART",
+          "term": "HomePage",
+          "customXAxis": null,
+          "metrics": null,
+          "id": "cce1085088-5220-4bcf-932c-55b459cc17b6",
+          "timestamp": 1632827500962
+        },
+        {
+          "tableColumns": null,
+          "creatorUserID": "admin",
+          "chartProperties": {
+            "size": 10,
+            "offset": 0
+          },
+          "customYAxis": null,
+          "source": null,
+          "filters": [
+            {
+              "filter": "appName",
+              "filterValue": "com.ibm.com",
+              "filterOperator": "equals",
+              "filterLabel": "Application Name",
+              "filterOperatorLabel": "Equals"
+            }
+          ],
+          "title": "ChatIntent_watsonchat",
+          "dest": null,
+          "customEventType": "CustomData",
+          "customChartType": "PIECHART",
+          "term": "Chat-Intents",
+          "customXAxis": null,
+          "metrics": null,
+          "id": "ccda277604-b166-46b0-8093-274d2ff60701",
+          "timestamp": 1632827500923
+        },
+        {
+          "tableColumns": null,
+          "creatorUserID": "admin",
+          "chartProperties": {
+            "size": 10,
+            "offset": 0
+          },
+          "customYAxis": null,
+          "source": "fromPage",
+          "filters": [
+            {
+              "filter": "appName",
+              "filterValue": "com.ibm.com",
+              "filterOperator": "equals",
+              "filterLabel": "Application Name",
+              "filterOperatorLabel": "Equals"
+            }
+          ],
+          "title": "PageFunnel_Pulse",
+          "dest": "toPage",
+          "customEventType": "CustomData",
+          "customChartType": "FLOWCHART",
+          "term": "HomePage",
+          "customXAxis": null,
+          "metrics": null,
+          "id": "ccebe3ea14-31ab-4435-8b04-0eb35c899851",
+          "timestamp": 1632822913486
+        },
+        {
+          "tableColumns": null,
+          "creatorUserID": "admin",
+          "chartProperties": {
+            "size": 10,
+            "offset": 0
+          },
+          "customYAxis": null,
+          "source": null,
+          "filters": [
+            {
+              "filter": "appName",
+              "filterValue": "com.ibm.com",
+              "filterOperator": "equals",
+              "filterLabel": "Application Name",
+              "filterOperatorLabel": "Equals"
+            }
+          ],
+          "title": "ChatIntent_Pulse",
+          "dest": null,
+          "customEventType": "CustomData",
+          "customChartType": "PIECHART",
+          "term": "Chat-Intents",
+          "customXAxis": null,
+          "metrics": null,
+          "id": "cc6a1fd727-5303-42fd-8dfa-25355f09549e",
+          "timestamp": 1632822913449
+        },
+        {
+          "tableColumns": null,
+          "creatorUserID": "admin",
+          "chartProperties": {
+            "size": 10,
+            "offset": 0
+          },
+          "customYAxis": null,
+          "source": "fromPage",
+          "filters": [
+            {
+              "filter": "appName",
+              "filterValue": "com.ibm.com",
+              "filterOperator": "equals",
+              "filterLabel": "Application Name",
+              "filterOperatorLabel": "Equals"
+            }
+          ],
+          "title": "PageFunnel_Pulse",
+          "dest": "toPage",
+          "customEventType": "CustomData",
+          "customChartType": "FLOWCHART",
+          "term": "HomePage",
+          "customXAxis": null,
+          "metrics": null,
+          "id": "ccdf5bd4c5-64b8-4fe4-ad8d-4bbf360801b5",
+          "timestamp": 1632570112079
+        },
+        {
+          "tableColumns": null,
+          "creatorUserID": "admin",
+          "chartProperties": {
+            "size": 10,
+            "offset": 0
+          },
+          "customYAxis": null,
+          "source": null,
+          "filters": [
+            {
+              "filter": "appName",
+              "filterValue": "com.ibm.com",
+              "filterOperator": "equals",
+              "filterLabel": "Application Name",
+              "filterOperatorLabel": "Equals"
+            }
+          ],
+          "title": "ChatIntent_Pulse",
+          "dest": null,
+          "customEventType": "CustomData",
+          "customChartType": "PIECHART",
+          "term": "Chat-Intents",
+          "customXAxis": null,
+          "metrics": null,
+          "id": "ccd8a199cc-1814-489a-881b-4895967a7e50",
+          "timestamp": 1632570112040
+        }
+      ],
+      "name": "analytics"
+    }
+  ]
+}
